@@ -19,7 +19,7 @@ public class BrowserUtils {
 	//wait for clickability of an element then click
 	public static void clickWithWait(WebElement element, int timeOut) {
 		try {
-			WebDriverWait wait = new WebDriverWait(com.eu9gr3.utilities.Driver.getDriver(), timeOut);
+			WebDriverWait wait = new WebDriverWait(com.eu9gr4.utilities.Driver.getDriver(), timeOut);
 			wait.until(ExpectedConditions.visibilityOf(element));
 			wait.until(ExpectedConditions.elementToBeClickable(element));
 		} catch (Exception e) {
