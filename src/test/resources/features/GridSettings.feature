@@ -1,0 +1,3 @@
+Feature: My feature
+
+  Scenario:
