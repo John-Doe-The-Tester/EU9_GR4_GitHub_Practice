@@ -1,0 +1,199 @@
+[33mcommit e899ca5f12ea33a51d278509102a4c14c3759e79[m[33m ([m[1;36mHEAD -> [m[1;32maydin[m[33m)[m
+Author: sukruaydin <sukraydin29@gmail.com>
+Date:   Tue Nov 15 22:53:06 2022 +0300
+
+    hii
+
+[33mcommit 9015cec781716bda2527fa000acbc3884ae81a92[m
+Author: sukruaydin <sukraydin29@gmail.com>
+Date:   Tue Nov 15 22:47:32 2022 +0300
+
+    messaaaagee
+
+[33mcommit 79ba24d2f0a84d2aacc93cbf9b90d8a8049382d6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 88b6ab0 59910e2
+Author: Cemal2545 <109843822+Cemal2545@users.noreply.github.com>
+Date:   Tue Nov 15 22:26:17 2022 +0300
+
+    Merge pull request #12 from John-Doe-The-Tester/yakup_local
+    
+    Yakup local
+
+[33mcommit 59910e2b8a354f812467eab17da2eb3435215c31[m
+Author: John-Doe-The-Tester <johndoe.theadvancedtester@gmail.com>
+Date:   Tue Nov 15 22:24:27 2022 +0300
+
+    second commit
+
+[33mcommit 83bbcd44e4b92df80bf589506b823180f009ce77[m
+Author: John-Doe-The-Tester <johndoe.theadvancedtester@gmail.com>
+Date:   Tue Nov 15 22:24:05 2022 +0300
+
+    second commit
+
+[33mcommit 88b6ab0a6c9c874997b53f7a2eb6f52d38d3ea22[m[33m ([m[1;31morigin/local[m[33m)[m
+Merge: 8f5ba34 dd1be02
+Author: John-Doe-The-Tester <88929818+John-Doe-The-Tester@users.noreply.github.com>
+Date:   Tue Nov 8 23:21:43 2022 +0300
+
+    Merge pull request #9 from John-Doe-The-Tester/serdar_odometer2
+    
+    update is done
+
+[33mcommit dd1be02b98100f258e16b91a88323b906845f56c[m
+Author: Serdar <srdrklc13@gmail.com>
+Date:   Tue Nov 8 23:20:00 2022 +0300
+
+    update is done
+
+[33mcommit 8f5ba34a65e8864ccfa51afb6a52d3458cc3309b[m
+Merge: 06714b9 f2842e2
+Author: John-Doe-The-Tester <88929818+John-Doe-The-Tester@users.noreply.github.com>
+Date:   Tue Nov 8 23:01:48 2022 +0300
+
+    Merge pull request #8 from John-Doe-The-Tester/mk
+    
+    Mk
+
+[33mcommit f2842e2ce14c66d84c536229f7d2daec95cf43b2[m
+Merge: 874c7f0 06714b9
+Author: mstfkvk <mstfkvk5600@gmail.com>
+Date:   Tue Nov 8 22:59:10 2022 +0300
+
+    Merge branch 'master' into mk
+    
+    # Conflicts:
+    #       src/test/java/com/eu9gr4/step_definitions/SampleStepDef.java
+
+[33mcommit 06714b973330dfcafe810bdba1428180cc4efa8d[m
+Merge: 1e938e2 99c4135
+Author: mstfkvk <105587797+mstfkvk@users.noreply.github.com>
+Date:   Tue Nov 8 22:50:59 2022 +0300
+
+    Merge pull request #2 from John-Doe-The-Tester/turgay_GridSettings
+    
+    Created Grid settings Featue file and step_def
+
+[33mcommit 1e938e2ab4b5bf20734cc67186bbe810674849d9[m
+Merge: 53fd132 ef43a80
+Author: mstfkvk <105587797+mstfkvk@users.noreply.github.com>
+Date:   Tue Nov 8 22:49:32 2022 +0300
+
+    Merge pull request #1 from John-Doe-The-Tester/yakup_sample
+    
+    second commit
+
+[33mcommit ef43a80d45537128d9b0280f339b4142c8ccac72[m
+Merge: 1f68009 53fd132
+Author: mstfkvk <105587797+mstfkvk@users.noreply.github.com>
+Date:   Tue Nov 8 22:48:44 2022 +0300
+
+    Merge branch 'master' into yakup_sample
+
+[33mcommit 99c41354af6f2b63c965e199dd0ceab5c34e740b[m
+Author: CYDEO <tubas2334@gmail.com>
+Date:   Tue Nov 8 22:46:47 2022 +0300
+
+    updated
+
+[33mcommit 51770e237aae83c13071c0c0ac346261086ec90f[m
+Author: CYDEO <tubas2334@gmail.com>
+Date:   Tue Nov 8 22:46:00 2022 +0300
+
+    Created Grid settings Featue file and step_def
+
+[33mcommit 53fd132651c1c0af336f0fb60cd31760fa17ebc4[m
+Merge: 0c40448 fafc9e0
+Author: Serdar KILIÇ <50462249+serdarklc@users.noreply.github.com>
+Date:   Tue Nov 8 22:43:28 2022 +0300
+
+    Merge pull request #3 from John-Doe-The-Tester/Muhammed_Add_Event_1
+    
+    Add Event commit
+
+[33mcommit 0c404480b090cab5513b062ba41ddaeedffbd3ab[m
+Merge: 506ec9f 2dac01d
+Author: Cemal2545 <109843822+Cemal2545@users.noreply.github.com>
+Date:   Tue Nov 8 22:43:12 2022 +0300
+
+    Merge pull request #5 from John-Doe-The-Tester/serdar_odometer
+    
+    feature file is created
+
+[33mcommit 506ec9f46cd0d0bf9e4d2950d1705f458ba511e0[m
+Merge: 2eda708 5587b39
+Author: Pisgin <105165579+Pisgin@users.noreply.github.com>
+Date:   Tue Nov 8 22:42:07 2022 +0300
+
+    Merge pull request #6 from John-Doe-The-Tester/Cemal_Delete_Car
+    
+    New sprint first commit
+
+[33mcommit 2eda70858a966ba9b1659615c84198acafa7b882[m
+Merge: e81fa05 2c397b0
+Author: John-Doe-The-Tester <88929818+John-Doe-The-Tester@users.noreply.github.com>
+Date:   Tue Nov 8 22:40:23 2022 +0300
+
+    Merge pull request #7 from John-Doe-The-Tester/emre.sample
+    
+    emre s commit
+
+[33mcommit 2c397b0be39a6aafa0243e9a27a419e955b94212[m
+Author: emre087 <fee0984@gmail.com>
+Date:   Tue Nov 8 20:29:44 2022 +0000
+
+    emre s commit
+
+[33mcommit fafc9e0052ff5a031d8439230f475ce99ce163ab[m
+Author: Muhammed <arsenalkartal@gmail.com>
+Date:   Tue Nov 8 22:33:28 2022 +0300
+
+    Add Event commit
+
+[33mcommit 874c7f051baa1e2093e0e41b62ec80c3cf84b157[m
+Author: mstfkvk <mstfkvk5600@gmail.com>
+Date:   Tue Nov 8 22:32:39 2022 +0300
+
+    send new files 2
+
+[33mcommit 5587b396a61d00cb7c2b912cf8d871f55e3ec475[m
+Author: Cemal2545 <cemaleyuboglu1990@hotmail.com>
+Date:   Tue Nov 8 22:30:53 2022 +0300
+
+    New sprint first commit
+
+[33mcommit 2dac01d0768f9deb727c445e2b69975d48248b00[m
+Author: Serdar <srdrklc13@gmail.com>
+Date:   Tue Nov 8 22:30:44 2022 +0300
+
+    feature file is created
+
+[33mcommit 6d9d68dea8e4c57e3fec97b5fd289affe66cbea7[m
+Author: mstfkvk <mstfkvk5600@gmail.com>
+Date:   Tue Nov 8 22:30:29 2022 +0300
+
+    send new files
+
+[33mcommit 180a240dc7d7fae37220556b2751787240627554[m
+Author: CYDEO <tubas2334@gmail.com>
+Date:   Tue Nov 8 22:30:17 2022 +0300
+
+    Created Grid settings Featue file and step_def
+
+[33mcommit 1f680096fa43369847a2db7559b934215d42657e[m
+Author: John-Doe-The-Tester <johndoe.theadvancedtester@gmail.com>
+Date:   Tue Nov 8 22:29:56 2022 +0300
+
+    second commit
+
+[33mcommit e81fa05e68878dad6e0a01166a6ddf1f0afccd3f[m
+Author: John-Doe-The-Tester <johndoe.theadvancedtester@gmail.com>
+Date:   Tue Nov 8 17:05:00 2022 +0300
+
+    first commit
+
+[33mcommit 3d4d7cfcc46771f1215937f70417859e0019df02[m
+Author: John-Doe-The-Tester <johndoe.theadvancedtester@gmail.com>
+Date:   Tue Nov 8 17:02:25 2022 +0300
+
+    first commit
